@@ -74,8 +74,12 @@
 <br>
 
 <p align="center">
-<a href="https://fb.com/pawan dananjaya lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pawan dananjaya lakshan" height="50" width="50" /></a>
-<a href="https://www.youtube.com/c/crazy arvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crazy arvan" height="50" width="50" /></a>
+  <a href="https://www.facebook.com/pawan.dananjaya.79?mibextid=wwXIfr" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - Pawan Dananjaya" height="50" width="50" />
+  </a>
+  <a href="https://www.youtube.com/@Pawan_Dananjaya" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube - Pawan Dananjaya" height="50" width="50" />
+  </a>
 </p>
 
 
